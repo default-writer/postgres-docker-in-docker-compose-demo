@@ -1,0 +1,1 @@
+/usr/bin/pwsh --file run.ps1
