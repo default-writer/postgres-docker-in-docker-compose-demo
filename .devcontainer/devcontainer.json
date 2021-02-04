@@ -19,7 +19,12 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-azuretools.vscode-docker",
-        "ms-vscode.powershell"
+        "ms-vscode.powershell",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "waderyan.gitblame",
+        "huizhou.githd",
+        "donjayamanne.githistory"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
